@@ -1,8 +1,11 @@
 - 👋 Hi, I’m the69er
-- 👀 I’m interested in Python, Java, AI
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on: idk, anything were I can learn more
-- 📫 How to reach me: instagram brotherstreak
+- 👀 Backend Dev, Full stack on a busy day
+- 🌱 Java, Python, SQL, Web and Software Developer
+- 💞️ Self taught
+- 📫 How to reach me: 
+- instagram: instagram.com/nkosiyapha
+- twitter: twitter.com/Nkosiyapha_
+- 
 
 <!---
 realnkosi/realnkosi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
