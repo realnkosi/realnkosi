@@ -1,7 +1,7 @@
-- 👋 Hi, I’m the69er
+- 👋 Hi, I’m Nkosi, 22 year old Software Engineer
 - 👀 Backend Dev, Full stack on a busy day
-- 🌱 Java, Python, SQL, Web and Software Developer
-- 💞️ Self taught
+- 🌱 Java, Python, SQL, Web
+- 💞️ Mostly self taught, Uni barely helped
 - 📫 How to reach me: 
 - instagram: instagram.com/nkosiyapha
 - twitter: twitter.com/Nkosiyapha_
