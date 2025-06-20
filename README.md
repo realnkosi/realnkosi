@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nkosi, 23 year old Software Engineer
+- 👋 Hi, I’m Nkosi, a Software Engineer of 4 years 
 - 👀 Backend Dev, Full stack on a busy day
 - 👨‍💻 Passion is Gamification
 - 🌱 Java, Python, SQL, Web
